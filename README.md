@@ -12,5 +12,5 @@ I currently live in northern Virginia
 
 ### Books I am reading now
 
-1. Unseen Realm by Michael Heiser
+1. The Unix Workbench by Sean Kross
 2. Universal Economics by Armen Alchian and William Allen
