@@ -1,28 +1,16 @@
-# This is a large heading
+# Rick
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I currently live in northern Virginia
 
-- This is
-- an unordered
-- list
+### Past
 
-1. This is
-2. an ordered
-3. list
+- I have lived in Minnesota and in New Mexico
+- I was in the Air Force
+- I met my wife while she was in the Navy
 
-Here is 'some code' in the middle of a sentence.
+### Books I am reading now
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Unseen Realm by Michael Heiser
+2. Universal Economics by Armen Alchian and William Allen
